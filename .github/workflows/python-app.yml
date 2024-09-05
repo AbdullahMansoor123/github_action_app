@@ -18,7 +18,7 @@ jobs:
 
       # Step#2 Setup python environement
       - name: Step up Python
-        uses: action/setup-python@v2
+        uses: actions/setup-python@v2
         with:
           python-version: '3.8'
 
