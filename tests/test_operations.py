@@ -13,6 +13,6 @@ def test_sub():
 def test_multi():
     assert multi(5,2) == 10
     assert multi(-1,-6) == 6
-    assert multi(-4,5) == 20
+    assert multi(-4,5) == -20
 
 
